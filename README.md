@@ -1,8 +1,10 @@
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Wilson Vieira</h1>
-<div align="top"><h3 align="center">Deaf Disabled (a little bit of lip reading and total communication for Libras), Approved.</h3>
-
+<div align="top">
+ 
 [![Portuguese](https://www.countryflags.io/br/flat/32.png)](README.md)
 [![English](https://www.countryflags.io/us/flat/32.png)](README.md)</div>
+
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Wilson Vieira</h1>
+<h3 align="center">Deaf Disabled (a little bit of lip reading and total communication for Libras), Approved.</h3>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
