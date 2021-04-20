@@ -10,7 +10,7 @@
   <a href="https://github.com/willsonvieira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willsonvieira&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=8&theme=algolia"/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willsonvieira&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <div>
 
 <div style="display: inline_block"><br>
