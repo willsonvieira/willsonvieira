@@ -9,7 +9,6 @@
  <div>
   <a href="https://github.com/willsonvieira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willsonvieira&show_icons=true&theme=algolia"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=8&theme=algolia"/>
 <div>
 
 <div style="display: inline_block"><br>
@@ -31,7 +30,8 @@
   <div>
   <a href = "mailto: softengwilson@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/meuwilsonvieira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23333?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/willson.vieira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.facebook.com/meuwilsonvieira/" target="_blank"><img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+ <a href="https://www.willsonvieira.dev.br/" target="_blank"><img src = "https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white" target="_blank"></a>
 </div>
